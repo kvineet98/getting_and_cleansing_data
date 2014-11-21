@@ -1,6 +1,4 @@
-datasciencecoursera
-===================
-=======
+
 Project : Getting and Cleansing Course Assignment 2 
 
 Data for the Project: 
